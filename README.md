@@ -6,5 +6,5 @@ What does it do?
 
 How to use it?
 Download and Install Mullvad Browser.
-Move "{441ae0e7-c955-4b0e-8209-99462af458db}" in 
-C:\Users\"USERNAME"\AppData\Roaming\Mullvad\MullvadBrowser\Profiles\"Version".default-release\extensions
+Move "{441ae0e7-c955-4b0e-8209-99462af458db}" 
+in C:\Users\"USERNAME"\AppData\Roaming\Mullvad\MullvadBrowser\Profiles\"Version".default-release\extensions
